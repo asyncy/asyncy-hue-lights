@@ -5,7 +5,7 @@ Hue lights control for Asyncy.
 ```coffee
 lights = hue lights
 light_ids = lights keys
-colors = ['red', 'blue', 'pink', 'majenta', '00f9ff', 'oragne']
+colors = ['red', 'blue', 'pink', 'majenta', '00f9ff', 'orange']
 
 for light_id in light_ids
   random_int = random integer lo:0 hi:5
