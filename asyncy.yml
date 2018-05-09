@@ -1,0 +1,8 @@
+commands:
+  entrypoint:
+    help: Run whois
+    additional_args: true
+    additional_kwargs: true
+env:
+    HUE_HOST:
+    HUE_USER:
